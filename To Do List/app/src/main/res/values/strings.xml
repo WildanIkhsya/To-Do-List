@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="add">add</string>
+    <string name="my_list">My List</string>
+    <string name="please_wait">Please Wait . . . .</string>
+    <string name="wait">wait</string>
+</resources>
