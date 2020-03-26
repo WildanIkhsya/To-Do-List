@@ -19,15 +19,14 @@
         android:layout_marginTop="28dp"
         android:layout_marginEnd="78dp"
         android:layout_marginRight="78dp"
-        android:layout_toStartOf="@+id/imageView3"
-        android:layout_toLeftOf="@+id/imageView3"
-        android:layout_weight="1"
+        android:layout_toStartOf="@+id/imageView2"
+        android:layout_toLeftOf="@+id/imageView2"
         android:text="Add New List"
         android:textColor="@color/black"
         android:textStyle="bold" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/create"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="690dp"
@@ -79,7 +78,7 @@
     </LinearLayout>
 
     <ImageView
-        android:id="@+id/imageView2"
+        android:id="@+id/cancel"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
