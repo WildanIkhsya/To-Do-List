@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="home_learning">Home Learning</string>
+    <string name="bahasa_indonesia">Bahasa Indonesia</string>
+    <string name="today">TODAY</string>
+    <string name="please_wait" />
+</resources>
